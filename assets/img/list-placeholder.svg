@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Logo lista da inserire">
+  <rect width="640" height="640" fill="#ffffff"/>
+  <circle cx="320" cy="320" r="254" fill="#f6f8fb" stroke="#071b35" stroke-width="20"/>
+  <path d="M164 392h312" stroke="#d1a437" stroke-width="24" stroke-linecap="round"/>
+  <path d="M212 300h216" stroke="#0b4f8a" stroke-width="24" stroke-linecap="round"/>
+  <text x="320" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#071b35">LOGO</text>
+  <text x="320" y="482" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#071b35">DA INSERIRE</text>
+</svg>

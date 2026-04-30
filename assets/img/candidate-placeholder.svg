@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 720" role="img" aria-label="Foto candidato da inserire">
+  <rect width="640" height="720" fill="#eaf0f6"/>
+  <circle cx="320" cy="246" r="112" fill="#b8c7d8"/>
+  <path d="M120 650c28-138 112-216 200-216s172 78 200 216" fill="#91a8bf"/>
+  <path d="M104 86h432v548H104z" fill="none" stroke="#d1a437" stroke-width="10"/>
+  <text x="320" y="684" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#071b35">FOTO DA INSERIRE</text>
+</svg>
