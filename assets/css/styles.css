@@ -1232,10 +1232,11 @@ h3 {
     display: block;
     min-height: auto;
     padding: 2.35rem 1rem 0;
+    background: linear-gradient(130deg, rgba(7, 27, 53, 1) 0%, rgba(7, 27, 53, 0.96) 54%, rgba(11, 79, 138, 0.82) 100%);
   }
 
   .hero-bg {
-    background: linear-gradient(130deg, rgba(7, 27, 53, 1) 0%, rgba(7, 27, 53, 0.96) 54%, rgba(11, 79, 138, 0.82) 100%);
+    display: none;
   }
 
   .hero-content {
