@@ -190,7 +190,7 @@ h3 {
   gap: clamp(1rem, 4vw, 4rem);
   min-height: calc(100svh - 76px);
   overflow: hidden;
-  padding: clamp(2.75rem, 5vw, 5rem) clamp(1rem, 5vw, 5rem) clamp(2rem, 4vw, 4rem);
+  padding: clamp(2.75rem, 5vw, 5rem) clamp(1rem, 5vw, 5rem) 0;
   background: var(--navy);
   color: var(--white);
 }
@@ -216,7 +216,7 @@ h3 {
   position: relative;
   z-index: 1;
   max-width: 640px;
-  padding-bottom: 0;
+  padding-bottom: clamp(2rem, 4vw, 4rem);
 }
 
 .hero h1 {
