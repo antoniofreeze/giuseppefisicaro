@@ -162,4 +162,34 @@ async function initShared() {
   }
 }
 
-document.addEventListener("DOMContentLoaded", initShared);
+function setupCookieBanner() {
+  if (localStorage.getItem("cookie-consent")) return;
+
+  const banner = document.createElement("div");
+  banner.className = "cookie-banner";
+  banner.setAttribute("role", "dialog");
+  banner.setAttribute("aria-label", "Informativa cookie");
+  banner.innerHTML = `
+    <div class="cookie-banner-inner">
+      <p>Questo sito utilizza esclusivamente <strong>cookie tecnici</strong> necessari al funzionamento. Nessun cookie di profilazione viene utilizzato. Per saperne di più consulta la nostra <a href="privacy.html">Privacy&nbsp;Policy</a>.</p>
+      <div class="cookie-banner-actions">
+        <button type="button" class="btn btn-primary" id="cookie-accept">Accetta</button>
+        <button type="button" class="btn btn-secondary" id="cookie-reject">Solo essenziali</button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(banner);
+
+  function dismiss(value) {
+    localStorage.setItem("cookie-consent", value);
+    banner.remove();
+  }
+
+  banner.querySelector("#cookie-accept").addEventListener("click", () => dismiss("all"));
+  banner.querySelector("#cookie-reject").addEventListener("click", () => dismiss("essential"));
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  initShared();
+  setupCookieBanner();
+});
