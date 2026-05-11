@@ -1009,6 +1009,55 @@ h3 {
   cursor: not-allowed;
 }
 
+.doc-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  min-height: 36px;
+  padding: 0 0.6rem;
+  border-radius: var(--radius);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+  line-height: 1;
+}
+
+.doc-link svg {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.doc-link--cv {
+  background: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #a5d6a7;
+}
+
+.doc-link--cv:hover,
+.doc-link--cv:focus-visible {
+  background: #2e7d32;
+  color: #fff;
+  outline: none;
+}
+
+.doc-link--casellario {
+  background: #e3f0fb;
+  color: var(--navy);
+  border: 1px solid #90caf9;
+}
+
+.doc-link--casellario:hover,
+.doc-link--casellario:focus-visible {
+  background: var(--navy);
+  color: #fff;
+  outline: none;
+}
+
 .site-footer {
   display: grid;
   grid-template-columns: 1.2fr 1.1fr 0.8fr 0.9fr;

@@ -78,12 +78,26 @@ function renderCandidates(data) {
     ? filtered
         .map((candidate) => {
           const list = candidateList(candidate, data.lists);
+          const cvLink = candidate.cv
+            ? `<a class="doc-link doc-link--cv" href="${escapeHtml(candidate.cv)}" target="_blank" rel="noopener noreferrer" aria-label="Apri curriculum di ${escapeHtml(candidate.name)}">
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6Zm4 18H6V4h7v5h5v11ZM8 15h8v1.5H8V15Zm0-3h8v1.5H8V12Zm0-3h4v1.5H8V9Z"/></svg>
+                CV
+              </a>`
+            : "";
+          const casellarioLink = candidate.casellario
+            ? `<a class="doc-link doc-link--casellario" href="${escapeHtml(candidate.casellario)}" target="_blank" rel="noopener noreferrer" aria-label="Apri casellario giudiziario di ${escapeHtml(candidate.name)}">
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4Zm-1 14-3-3 1.41-1.41L11 12.17l4.59-4.58L17 9l-6 6Z"/></svg>
+                Casellario
+              </a>`
+            : "";
+          const hasDocs = cvLink || casellarioLink;
           return `
             <article class="candidate-card candidate-card--name" style="--list-color: ${escapeHtml(list.color)}">
               <span class="candidate-number">${escapeHtml(candidate.order || "")}</span>
               <div class="candidate-body">
                 <span class="candidate-list">${escapeHtml(list.name)}</span>
                 <h3>${escapeHtml(candidate.name)}</h3>
+                ${hasDocs ? `<div class="candidate-docs">${cvLink}${casellarioLink}</div>` : ""}
               </div>
             </article>
           `;
