@@ -1236,8 +1236,8 @@ h3 {
 
   .hero-content {
     max-width: none;
-    padding-right: clamp(6.15rem, 30vw, 8rem);
-    padding-bottom: 1.35rem;
+    padding-right: 0;
+    padding-bottom: clamp(7.5rem, 34vw, 9.8rem);
   }
 
   .hero h1 {
@@ -1279,14 +1279,14 @@ h3 {
 
   .hero-portrait {
     position: absolute;
-    right: -0.65rem;
-    top: 7.6rem;
-    bottom: auto;
+    right: -0.35rem;
+    top: auto;
+    bottom: 0;
     z-index: 0;
-    width: min(72vw, 250px);
-    min-width: 210px;
+    width: min(50vw, 190px);
+    min-width: 150px;
     margin: 0;
-    transform: translateX(22%);
+    transform: none;
   }
 }
 
