@@ -351,7 +351,7 @@ h3 {
 }
 
 .hero-portrait {
-  align-self: center;
+  align-self: end;
   justify-self: end;
   width: min(34vw, 470px);
   min-width: 320px;
@@ -1294,11 +1294,11 @@ h3 {
     display: block;
     min-height: auto;
     padding: 2.35rem 1rem 0;
-    background: linear-gradient(130deg, rgba(7, 27, 53, 1) 0%, rgba(7, 27, 53, 0.96) 54%, rgba(11, 79, 138, 0.82) 100%);
+    background: var(--navy);
   }
 
   .hero-bg {
-    display: none;
+    display: block;
   }
 
   .hero-content {
