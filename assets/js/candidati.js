@@ -78,6 +78,12 @@ function renderCandidates(data) {
     ? filtered
         .map((candidate) => {
           const list = candidateList(candidate, data.lists);
+          const trasparenzaLink = candidate.trasparenza
+            ? `<a class="doc-link doc-link--trasparenza" href="${escapeHtml(candidate.trasparenza)}" target="_blank" rel="noopener noreferrer" aria-label="Apri pagina trasparenza di ${escapeHtml(candidate.name)}">
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M11 17h2v-6h-2v6Zm1-8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm0-7C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2Zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8Z"/></svg>
+                Trasparenza
+              </a>`
+            : "";
           const cvLink = candidate.cv
             ? `<a class="doc-link doc-link--cv" href="${escapeHtml(candidate.cv)}" target="_blank" rel="noopener noreferrer" aria-label="Apri curriculum di ${escapeHtml(candidate.name)}">
                 <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6Zm4 18H6V4h7v5h5v11ZM8 15h8v1.5H8V15Zm0-3h8v1.5H8V12Zm0-3h4v1.5H8V9Z"/></svg>
@@ -90,14 +96,14 @@ function renderCandidates(data) {
                 Casellario
               </a>`
             : "";
-          const hasDocs = cvLink || casellarioLink;
+          const hasDocs = trasparenzaLink || cvLink || casellarioLink;
           return `
             <article class="candidate-card candidate-card--name" style="--list-color: ${escapeHtml(list.color)}">
               <span class="candidate-number">${escapeHtml(candidate.order || "")}</span>
               <div class="candidate-body">
                 <span class="candidate-list">${escapeHtml(list.name)}</span>
                 <h3>${escapeHtml(candidate.name)}</h3>
-                ${hasDocs ? `<div class="candidate-docs">${cvLink}${casellarioLink}</div>` : ""}
+                ${hasDocs ? `<div class="candidate-docs">${trasparenzaLink}${cvLink}${casellarioLink}</div>` : ""}
               </div>
             </article>
           `;

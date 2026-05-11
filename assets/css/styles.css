@@ -1058,6 +1058,19 @@ h3 {
   outline: none;
 }
 
+.doc-link--trasparenza {
+  background: #fff3e0;
+  color: #e65100;
+  border: 1px solid #ffcc80;
+}
+
+.doc-link--trasparenza:hover,
+.doc-link--trasparenza:focus-visible {
+  background: #e65100;
+  color: #fff;
+  outline: none;
+}
+
 .site-footer {
   display: grid;
   grid-template-columns: 1.2fr 1.1fr 0.8fr 0.9fr;
