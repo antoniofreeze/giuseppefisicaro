@@ -162,7 +162,7 @@
     { "id": "giovane-06", "order": 6,  "name": "MANGIAMELI LORENZO",      "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-06.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
     { "id": "giovane-07", "order": 7,  "name": "VECCHIO FRANCESCO",       "listId": "lentini-giovane" },
     { "id": "giovane-08", "order": 8,  "name": "CARBONARO LAURA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-08.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-09", "order": 9,  "name": "SAMMATRICE LUDOVICA RITA","listId": "lentini-giovane" },
+    { "id": "giovane-09", "order": 9,  "name": "SAMMATRICE LUDOVICA RITA","listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-09.pdf" },
     { "id": "giovane-10", "order": 10, "name": "FISICARO ANDREA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-10.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
     { "id": "giovane-11", "order": 11, "name": "GNISCI CHIARINA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-11.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
     { "id": "giovane-12", "order": 12, "name": "FUCCIO ALFINA",           "listId": "lentini-giovane", "casellario": "assets/docs/casellario-giovane-12.pdf" },
