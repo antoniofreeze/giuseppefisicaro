@@ -87,22 +87,22 @@
     "Sport, cultura, turismo sostenibile e valorizzazione dell'identità storica di Leontinoi e del Lago Biviere"
   ],
   "candidates": [
-    { "id": "fdi-01",  "order": 1,  "name": "BONACCORSI ORIANA",              "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-02",  "order": 2,  "name": "BONACCORSI SALVATORE",          "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-03",  "order": 3,  "name": "BOSCO MARIA AURORA",            "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-04",  "order": 4,  "name": "BUSACCA GIANCARLO ANGELO",      "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-05",  "order": 5,  "name": "CONSIGLIO ROSSELLA",            "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-06",  "order": 6,  "name": "CURCIO MARCELLA",               "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-07",  "order": 7,  "name": "DI MARCO AMBRA",                "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-08",  "order": 8,  "name": "FANGANO ROSSANA",               "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-09",  "order": 9,  "name": "FISICARO DESIREÈ",              "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-10",  "order": 10, "name": "LA FERLA CIRINO detto \"CIRO\"", "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-11",  "order": 11, "name": "NOCITA LUCIANO",                "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-12",  "order": 12, "name": "PINO ANTONINO detto \"ANTONIO\"", "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-13",  "order": 13, "name": "POLLICINO GIUSEPPE",            "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-14",  "order": 14, "name": "SCIACCA SERGIO ALFIO",          "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-15",  "order": 15, "name": "URRATA CLAUDIA",                "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
-    { "id": "fdi-16",  "order": 16, "name": "VINCI CRISTIAN",                "listId": "fratelli-italia", "trasparenza": "https://www.fratelli-italia.it/elezioni-trasparenti/#" },
+    { "id": "fdi-01",  "order": 1,  "name": "BONACCORSI ORIANA",              "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-01.pdf", "casellario": "assets/docs/casellario-fdi-01.pdf" },
+    { "id": "fdi-02",  "order": 2,  "name": "BONACCORSI SALVATORE",          "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-02.pdf", "casellario": "assets/docs/casellario-fdi-02.pdf" },
+    { "id": "fdi-03",  "order": 3,  "name": "BOSCO MARIA AURORA",            "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-03.pdf", "casellario": "assets/docs/casellario-fdi-03.pdf" },
+    { "id": "fdi-04",  "order": 4,  "name": "BUSACCA GIANCARLO ANGELO",      "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-04.pdf", "casellario": "assets/docs/casellario-fdi-04.pdf" },
+    { "id": "fdi-05",  "order": 5,  "name": "CONSIGLIO ROSSELLA",            "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-05.pdf", "casellario": "assets/docs/casellario-fdi-05.pdf" },
+    { "id": "fdi-06",  "order": 6,  "name": "CURCIO MARCELLA",               "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-06.pdf", "casellario": "assets/docs/casellario-fdi-06.pdf" },
+    { "id": "fdi-07",  "order": 7,  "name": "DI MARCO AMBRA",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-07.pdf", "casellario": "assets/docs/casellario-fdi-07.pdf" },
+    { "id": "fdi-08",  "order": 8,  "name": "FANGANO ROSSANA",               "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-08.pdf", "casellario": "assets/docs/casellario-fdi-08.pdf" },
+    { "id": "fdi-09",  "order": 9,  "name": "FISICARO DESIREÈ",              "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-09.pdf", "casellario": "assets/docs/casellario-fdi-09.pdf" },
+    { "id": "fdi-10",  "order": 10, "name": "LA FERLA CIRINO detto \"CIRO\"", "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-10.pdf", "casellario": "assets/docs/casellario-fdi-10.pdf" },
+    { "id": "fdi-11",  "order": 11, "name": "NOCITA LUCIANO",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-11.pdf", "casellario": "assets/docs/casellario-fdi-11.pdf" },
+    { "id": "fdi-12",  "order": 12, "name": "PINO ANTONINO detto \"ANTONIO\"", "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-12.pdf", "casellario": "assets/docs/casellario-fdi-12.pdf" },
+    { "id": "fdi-13",  "order": 13, "name": "POLLICINO GIUSEPPE",            "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-13.pdf", "casellario": "assets/docs/casellario-fdi-13.pdf" },
+    { "id": "fdi-14",  "order": 14, "name": "SCIACCA SERGIO ALFIO",          "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-14.pdf", "casellario": "assets/docs/casellario-fdi-14.pdf" },
+    { "id": "fdi-15",  "order": 15, "name": "URRATA CLAUDIA",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-15.pdf", "casellario": "assets/docs/casellario-fdi-15.pdf" },
+    { "id": "fdi-16",  "order": 16, "name": "VINCI CRISTIAN",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-16.pdf", "casellario": "assets/docs/casellario-fdi-16.pdf" },
 
     { "id": "liberi-01", "order": 1,  "name": "CORMACI VINCENZO",                        "listId": "liberi", "cv": "assets/docs/cv-liberi-01.pdf", "casellario": "assets/docs/casellario-liberi-01.pdf" },
     { "id": "liberi-02", "order": 2,  "name": "ANZALONE AGATA",                          "listId": "liberi", "cv": "assets/docs/cv-liberi-02.pdf", "casellario": "assets/docs/casellario-liberi-02.pdf" },
@@ -203,6 +203,6 @@
     { "id": "fisicaro-13", "order": 13, "name": "INCONTRO GIUSEPPE DARIO",  "listId": "fisicaro-sindaco" },
     { "id": "fisicaro-14", "order": 14, "name": "ROSSITTO DANIELE",         "listId": "fisicaro-sindaco" },
     { "id": "fisicaro-15", "order": 15, "name": "DI PIETRO GIORGIA",        "listId": "fisicaro-sindaco" },
-    { "id": "fisicaro-16", "order": 16, "name": "FISICARO GIUSEPPE",        "listId": "fisicaro-sindaco" }
+    { "id": "fisicaro-16", "order": 16, "name": "FISICARO GIUSEPPE",        "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-16.pdf" }
   ]
 }
