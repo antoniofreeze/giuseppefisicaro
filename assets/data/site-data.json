@@ -197,7 +197,7 @@
     { "id": "fisicaro-07", "order": 7,  "name": "DI VITA GIUSEPPE",         "listId": "fisicaro-sindaco" },
     { "id": "fisicaro-08", "order": 8,  "name": "BARRANO ROCKY",            "listId": "fisicaro-sindaco" },
     { "id": "fisicaro-09", "order": 9,  "name": "GRASSO SIMONA",            "listId": "fisicaro-sindaco" },
-    { "id": "fisicaro-10", "order": 10, "name": "OLIVA MATTIA",             "listId": "fisicaro-sindaco" },
+    { "id": "fisicaro-10", "order": 10, "name": "OLIVA MATTIA",             "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-10.pdf" },
     { "id": "fisicaro-11", "order": 11, "name": "NARZISI VERONICA",         "listId": "fisicaro-sindaco" },
     { "id": "fisicaro-12", "order": 12, "name": "CASTIGLIA LORENA",         "listId": "fisicaro-sindaco" },
     { "id": "fisicaro-13", "order": 13, "name": "INCONTRO GIUSEPPE DARIO",  "listId": "fisicaro-sindaco" },
