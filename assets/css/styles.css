@@ -321,6 +321,41 @@ h3 {
   color: var(--navy);
 }
 
+.hero-docs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.75rem;
+}
+
+.hero-docs .btn-doc {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 0.82rem;
+  font-weight: 600;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+
+.hero-docs .btn-doc:hover,
+.hero-docs .btn-doc:focus-visible {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: rgba(255, 255, 255, 0.6);
+  color: var(--white);
+  outline: none;
+}
+
+.hero-docs .btn-doc svg {
+  width: 1rem;
+  height: 1rem;
+  flex-shrink: 0;
+}
+
 .hero-meta {
   display: inline-flex;
   flex-wrap: nowrap;
