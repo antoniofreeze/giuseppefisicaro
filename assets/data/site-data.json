@@ -683,7 +683,8 @@
       "order": 12,
       "name": "FUCCIO ALFINA",
       "listId": "lentini-giovane",
-      "casellario": "assets/docs/casellario-giovane-12.pdf"
+      "casellario": "assets/docs/casellario-giovane-12.pdf",
+      "cv": "assets/docs/cv-giovane-12.pdf"
     },
     {
       "id": "giovane-13",
@@ -941,7 +942,8 @@
       "order": 13,
       "name": "INCONTRO GIUSEPPE DARIO",
       "listId": "fisicaro-sindaco",
-      "casellario": "assets/docs/casellario-fisicaro-13.pdf"
+      "casellario": "assets/docs/casellario-fisicaro-13.pdf",
+      "cv": "assets/docs/cv-fisicaro-13.pdf"
     },
     {
       "id": "fisicaro-14",
