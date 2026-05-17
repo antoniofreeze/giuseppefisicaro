@@ -87,122 +87,882 @@
     "Sport, cultura, turismo sostenibile e valorizzazione dell'identità storica di Leontinoi e del Lago Biviere"
   ],
   "candidates": [
-    { "id": "fdi-01",  "order": 1,  "name": "BONACCORSI ORIANA",              "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-01.pdf", "casellario": "assets/docs/casellario-fdi-01.pdf" },
-    { "id": "fdi-02",  "order": 2,  "name": "BONACCORSI SALVATORE",          "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-02.pdf", "casellario": "assets/docs/casellario-fdi-02.pdf" },
-    { "id": "fdi-03",  "order": 3,  "name": "BOSCO MARIA AURORA",            "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-03.pdf", "casellario": "assets/docs/casellario-fdi-03.pdf" },
-    { "id": "fdi-04",  "order": 4,  "name": "BUSACCA GIANCARLO ANGELO",      "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-04.pdf", "casellario": "assets/docs/casellario-fdi-04.pdf" },
-    { "id": "fdi-05",  "order": 5,  "name": "CONSIGLIO ROSSELLA",            "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-05.pdf", "casellario": "assets/docs/casellario-fdi-05.pdf" },
-    { "id": "fdi-06",  "order": 6,  "name": "CURCIO MARCELLA",               "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-06.pdf", "casellario": "assets/docs/casellario-fdi-06.pdf" },
-    { "id": "fdi-07",  "order": 7,  "name": "DI MARCO AMBRA",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-07.pdf", "casellario": "assets/docs/casellario-fdi-07.pdf" },
-    { "id": "fdi-08",  "order": 8,  "name": "FANGANO ROSSANA",               "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-08.pdf", "casellario": "assets/docs/casellario-fdi-08.pdf" },
-    { "id": "fdi-09",  "order": 9,  "name": "FISICARO DESIREÈ",              "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-09.pdf", "casellario": "assets/docs/casellario-fdi-09.pdf" },
-    { "id": "fdi-10",  "order": 10, "name": "LA FERLA CIRINO detto \"CIRO\"", "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-10.pdf", "casellario": "assets/docs/casellario-fdi-10.pdf" },
-    { "id": "fdi-11",  "order": 11, "name": "NOCITA LUCIANO",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-11.pdf", "casellario": "assets/docs/casellario-fdi-11.pdf" },
-    { "id": "fdi-12",  "order": 12, "name": "PINO ANTONINO detto \"ANTONIO\"", "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-12.pdf", "casellario": "assets/docs/casellario-fdi-12.pdf" },
-    { "id": "fdi-13",  "order": 13, "name": "POLLICINO GIUSEPPE",            "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-13.pdf", "casellario": "assets/docs/casellario-fdi-13.pdf" },
-    { "id": "fdi-14",  "order": 14, "name": "SCIACCA SERGIO ALFIO",          "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-14.pdf", "casellario": "assets/docs/casellario-fdi-14.pdf" },
-    { "id": "fdi-15",  "order": 15, "name": "URRATA CLAUDIA",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-15.pdf", "casellario": "assets/docs/casellario-fdi-15.pdf" },
-    { "id": "fdi-16",  "order": 16, "name": "VINCI CRISTIAN",                "listId": "fratelli-italia", "cv": "assets/docs/cv-fdi-16.pdf", "casellario": "assets/docs/casellario-fdi-16.pdf" },
-
-    { "id": "liberi-01", "order": 1,  "name": "CORMACI VINCENZO",                        "listId": "liberi", "cv": "assets/docs/cv-liberi-01.pdf", "casellario": "assets/docs/casellario-liberi-01.pdf" },
-    { "id": "liberi-02", "order": 2,  "name": "ANZALONE AGATA",                          "listId": "liberi", "cv": "assets/docs/cv-liberi-02.pdf", "casellario": "assets/docs/casellario-liberi-02.pdf" },
-    { "id": "liberi-03", "order": 3,  "name": "ARISCO SAMUELE ANGELO",                   "listId": "liberi", "cv": "assets/docs/cv-liberi-03.pdf", "casellario": "assets/docs/casellario-liberi-03.pdf" },
-    { "id": "liberi-04", "order": 4,  "name": "BOSCO SALVATORE",                         "listId": "liberi", "cv": "assets/docs/cv-liberi-04.pdf", "casellario": "assets/docs/casellario-liberi-04.pdf" },
-    { "id": "liberi-05", "order": 5,  "name": "CONSOLI CARMELO",                         "listId": "liberi", "cv": "assets/docs/cv-liberi-05.pdf", "casellario": "assets/docs/casellario-liberi-05.pdf" },
-    { "id": "liberi-06", "order": 6,  "name": "FAVA MARIA CONCETTA detta \"CONCITA\"",   "listId": "liberi", "cv": "assets/docs/cv-liberi-06.pdf", "casellario": "assets/docs/casellario-liberi-06.pdf" },
-    { "id": "liberi-07", "order": 7,  "name": "MARINO FABIO",                            "listId": "liberi", "cv": "assets/docs/cv-liberi-07.pdf", "casellario": "assets/docs/casellario-liberi-07.pdf" },
-    { "id": "liberi-08", "order": 8,  "name": "MASTROGIACOMO ANTONIO",                   "listId": "liberi", "cv": "assets/docs/cv-liberi-08.pdf", "casellario": "assets/docs/casellario-liberi-08.pdf" },
-    { "id": "liberi-09", "order": 9,  "name": "NEGOVETICH BRIAN LORENZO",                "listId": "liberi", "cv": "assets/docs/cv-liberi-09.pdf", "casellario": "assets/docs/casellario-liberi-09.pdf" },
-    { "id": "liberi-10", "order": 10, "name": "PICCOLO GLORIA DESIREE",                  "listId": "liberi", "cv": "assets/docs/cv-liberi-10.pdf", "casellario": "assets/docs/casellario-liberi-10.pdf" },
-    { "id": "liberi-11", "order": 11, "name": "ROSSITTO MANLIO",                         "listId": "liberi", "cv": "assets/docs/cv-liberi-11.pdf", "casellario": "assets/docs/casellario-liberi-11.pdf" },
-    { "id": "liberi-12", "order": 12, "name": "SCAMMACCA ASIA",                          "listId": "liberi", "cv": "assets/docs/cv-liberi-12.pdf", "casellario": "assets/docs/casellario-liberi-12.pdf" },
-    { "id": "liberi-13", "order": 13, "name": "SCARCINA GAETANA detta \"TANIA\"",        "listId": "liberi", "cv": "assets/docs/cv-liberi-13.pdf", "casellario": "assets/docs/casellario-liberi-13.pdf" },
-    { "id": "liberi-14", "order": 14, "name": "TORRISI ANTONELLA",                       "listId": "liberi", "cv": "assets/docs/cv-liberi-14.pdf", "casellario": "assets/docs/casellario-liberi-14.pdf" },
-    { "id": "liberi-15", "order": 15, "name": "TOCCO FILADELFO detto \"ADELFIO\"",       "listId": "liberi", "cv": "assets/docs/cv-liberi-15.pdf", "casellario": "assets/docs/casellario-liberi-15.pdf" },
-
-    { "id": "andiamo-01", "order": 1,  "name": "ANTICO CRISTINA",         "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-01.pdf", "casellario": "assets/docs/casellario-andiamo-01.pdf" },
-    { "id": "andiamo-02", "order": 2,  "name": "BOSCO SANTOCONO SILVANA", "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-02.pdf", "casellario": "assets/docs/casellario-andiamo-02.pdf" },
-    { "id": "andiamo-03", "order": 3,  "name": "BRIGANTI FEDERICA",       "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-03.pdf", "casellario": "assets/docs/casellario-andiamo-03.pdf" },
-    { "id": "andiamo-04", "order": 4,  "name": "CASERTA GAETANO",         "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-04.pdf", "casellario": "assets/docs/casellario-andiamo-04.pdf" },
-    { "id": "andiamo-05", "order": 5,  "name": "CASTRO SEBASTIANO",       "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-05.pdf", "casellario": "assets/docs/casellario-andiamo-05.pdf" },
-    { "id": "andiamo-06", "order": 6,  "name": "INCONTRO DOMENICO",       "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-06.pdf", "casellario": "assets/docs/casellario-andiamo-06.pdf" },
-    { "id": "andiamo-07", "order": 7,  "name": "LA CAVA ANTONINO",        "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-07.pdf", "casellario": "assets/docs/casellario-andiamo-07.pdf" },
-    { "id": "andiamo-08", "order": 8,  "name": "MARINO SILVANA",          "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-08.pdf", "casellario": "assets/docs/casellario-andiamo-08.pdf" },
-    { "id": "andiamo-09", "order": 9,  "name": "MESSINA VALERIA",         "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-09.pdf", "casellario": "assets/docs/casellario-andiamo-09.pdf" },
-    { "id": "andiamo-10", "order": 10, "name": "MONTONERI STEFANIA",      "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-10.pdf", "casellario": "assets/docs/casellario-andiamo-10.pdf" },
-    { "id": "andiamo-11", "order": 11, "name": "PIRRERA MICAELA",         "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-11.pdf", "casellario": "assets/docs/casellario-andiamo-11.pdf" },
-    { "id": "andiamo-12", "order": 12, "name": "PRIVITELLI STEFANO",      "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-12.pdf", "casellario": "assets/docs/casellario-andiamo-12.pdf" },
-    { "id": "andiamo-13", "order": 13, "name": "SGROI SALVATORE",         "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-13.pdf", "casellario": "assets/docs/casellario-andiamo-13.pdf" },
-    { "id": "andiamo-14", "order": 14, "name": "SPADA GIUSEPPE",          "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-14.pdf", "casellario": "assets/docs/casellario-andiamo-14.pdf" },
-    { "id": "andiamo-15", "order": 15, "name": "SPARAGNINO FRANCESCO",    "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-15.pdf", "casellario": "assets/docs/casellario-andiamo-15.pdf" },
-    { "id": "andiamo-16", "order": 16, "name": "VASTA GIUSEPPE",          "listId": "andiamo-avanti", "cv": "assets/docs/cv-andiamo-16.pdf", "casellario": "assets/docs/casellario-andiamo-16.pdf" },
-
-    { "id": "azzurra-01", "order": 1,  "name": "FERRARO SALVATORE detto \"SALVO\"",           "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-01.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-02", "order": 2,  "name": "ADDAMO MARIA CRISTINA detta \"CRISTINA\"",    "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-02.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-03", "order": 3,  "name": "BARRETTA MARCO",                              "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-03.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-04", "order": 4,  "name": "BUDA GIUSY",                                  "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-04.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-05", "order": 5,  "name": "CAPPELLO LEANDRA",                            "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-05.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-06", "order": 6,  "name": "CARNAZZO ENRICO",                             "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-06.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-07", "order": 7,  "name": "CICERO PIETRO",                               "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-07.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-08", "order": 8,  "name": "ESPOSITO ARMANDO",                            "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-08.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-09", "order": 9,  "name": "FERRARO MASSIMO",                             "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-09.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-10", "order": 10, "name": "GENTILE ROSANNA",                             "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-10.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-11", "order": 11, "name": "LO VERDE GIOVANNA",                           "listId": "lentini-azzurra", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-12", "order": 12, "name": "MICALIZIO BARBARA",                           "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-12.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-13", "order": 13, "name": "PAGANO PAOLO FABIO",                          "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-13.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-14", "order": 14, "name": "RISUGLIA AZZURRA",                            "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-14.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-15", "order": 15, "name": "SAGGIO FABIO detto \"DARIO SAGGIO\"",         "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-15.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-    { "id": "azzurra-16", "order": 16, "name": "VINTALORO VALERIA",                           "listId": "lentini-azzurra", "cv": "assets/docs/cv-azzurra-16.pdf", "casellario": "assets/docs/casellario-azzurra-combinato.pdf" },
-
-    { "id": "giovane-01", "order": 1,  "name": "LA FERLA LUCA",           "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-01.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-02", "order": 2,  "name": "DE LUCA GIORGIA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-02.pdf", "casellario": "assets/docs/casellario-giovane-02.pdf" },
-    { "id": "giovane-03", "order": 3,  "name": "PUGLISI GRAZIANO",        "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-03.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-04", "order": 4,  "name": "FURNÒ ELENA CLAUDIA",     "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-04.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-05", "order": 5,  "name": "MIGLIORE FEDERICA",       "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-05.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-06", "order": 6,  "name": "MANGIAMELI LORENZO",      "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-06.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-07", "order": 7,  "name": "VECCHIO FRANCESCO",       "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-07.pdf", "casellario": "assets/docs/casellario-giovane-07.pdf" },
-    { "id": "giovane-08", "order": 8,  "name": "CARBONARO LAURA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-08.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-09", "order": 9,  "name": "SAMMATRICE LUDOVICA RITA","listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-09.pdf" },
-    { "id": "giovane-10", "order": 10, "name": "FISICARO ANDREA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-10.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-11", "order": 11, "name": "GNISCI CHIARINA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-11.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-12", "order": 12, "name": "FUCCIO ALFINA",           "listId": "lentini-giovane", "casellario": "assets/docs/casellario-giovane-12.pdf" },
-    { "id": "giovane-13", "order": 13, "name": "FANCIULLO ALFIO",         "listId": "lentini-giovane", "casellario": "assets/docs/casellario-giovane-13.pdf" },
-    { "id": "giovane-14", "order": 14, "name": "DE LEO INES",             "listId": "lentini-giovane", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-15", "order": 15, "name": "COMMENDATORE VALENTINA",  "listId": "lentini-giovane", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-    { "id": "giovane-16", "order": 16, "name": "VINCI VALENTINA",         "listId": "lentini-giovane", "cv": "assets/docs/cv-giovane-16.pdf", "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf" },
-
-    { "id": "grande-sicilia-01", "order": 1,  "name": "BATTIATO STEFANO",                 "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-01.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-02", "order": 2,  "name": "REALE FRANCESCA",                  "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-02.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-03", "order": 3,  "name": "BATTISTONE MARIA TERESA",          "listId": "grande-sicilia", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-04", "order": 4,  "name": "CALDERONE DANIELA",                "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-04.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-05", "order": 5,  "name": "CARCÒ SALVATORE",                  "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-05.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-06", "order": 6,  "name": "COMMENDATORE MAURIZIO",            "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-06.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-07", "order": 7,  "name": "CUNSOLO FRANCESCO",                "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-07.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-08", "order": 8,  "name": "FERRAUTO IRENE",                   "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-08.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-09", "order": 9,  "name": "LA ROSA ANTONELLA",                "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-09.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-10", "order": 10, "name": "LOMBARDO MARIA CONCETTA",          "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-10.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-11", "order": 11, "name": "MICELI LAURA MARIA PAOLA",         "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-11.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-12", "order": 12, "name": "NICOTRA SALVATORE NAZZARENO",      "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-12.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-13", "order": 13, "name": "PAPPALARDO MELISSA",               "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-13.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-14", "order": 14, "name": "SANTOCONO BERNADETTE",             "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-14.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-15", "order": 15, "name": "SFERRAZZO ALFIO",                  "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-15.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-    { "id": "grande-sicilia-16", "order": 16, "name": "SGROI MASSIMO",                    "listId": "grande-sicilia", "cv": "assets/docs/cv-grande-sicilia-16.pdf", "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-
-    { "id": "fisicaro-01", "order": 1,  "name": "CAMPISI LUIGI",            "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-01.pdf" },
-    { "id": "fisicaro-02", "order": 2,  "name": "RUSSO FILADELFA",          "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-02.pdf", "casellario": "assets/docs/casellario-fisicaro-02.pdf" },
-    { "id": "fisicaro-03", "order": 3,  "name": "BARRESI GIUSI",            "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-03.pdf", "casellario": "assets/docs/casellario-fisicaro-03.pdf" },
-    { "id": "fisicaro-04", "order": 4,  "name": "SCAMPORRINO EGIDIO",       "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-04.pdf" },
-    { "id": "fisicaro-05", "order": 5,  "name": "GIUNTA ADELE",             "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-05.pdf" },
-    { "id": "fisicaro-06", "order": 6,  "name": "BOSCO SIMONE",             "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-06.pdf" },
-    { "id": "fisicaro-07", "order": 7,  "name": "DI VITA GIUSEPPE",         "listId": "fisicaro-sindaco", "casellario": "assets/docs/casellario-fisicaro-07.pdf" },
-    { "id": "fisicaro-08", "order": 8,  "name": "BARRANO ROCKY",            "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-08.pdf", "casellario": "assets/docs/casellario-fisicaro-08.pdf" },
-    { "id": "fisicaro-09", "order": 9,  "name": "GRASSO SIMONA",            "listId": "fisicaro-sindaco", "casellario": "assets/docs/casellario-fisicaro-09.pdf" },
-    { "id": "fisicaro-10", "order": 10, "name": "OLIVA MATTIA",             "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-10.pdf", "casellario": "assets/docs/casellario-fisicaro-10.pdf" },
-    { "id": "fisicaro-11", "order": 11, "name": "NARZISI VERONICA",         "listId": "fisicaro-sindaco", "casellario": "assets/docs/casellario-fisicaro-11.pdf" },
-    { "id": "fisicaro-12", "order": 12, "name": "CASTIGLIA LORENA",         "listId": "fisicaro-sindaco", "casellario": "assets/docs/casellario-fisicaro-12.pdf" },
-    { "id": "fisicaro-13", "order": 13, "name": "INCONTRO GIUSEPPE DARIO",  "listId": "fisicaro-sindaco", "casellario": "assets/docs/casellario-fisicaro-13.pdf" },
-    { "id": "fisicaro-14", "order": 14, "name": "ROSSITTO DANIELE",         "listId": "fisicaro-sindaco", "casellario": "assets/docs/casellario-fisicaro-14.pdf" },
-    { "id": "fisicaro-15", "order": 15, "name": "DI PIETRO GIORGIA",        "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-15.pdf", "casellario": "assets/docs/casellario-fisicaro-15.pdf" },
-    { "id": "fisicaro-16", "order": 16, "name": "FISICARO GIUSEPPE",        "listId": "fisicaro-sindaco", "cv": "assets/docs/cv-fisicaro-16.pdf" }
+    {
+      "id": "fdi-01",
+      "order": 1,
+      "name": "BONACCORSI ORIANA",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-01.pdf",
+      "casellario": "assets/docs/casellario-fdi-01.pdf"
+    },
+    {
+      "id": "fdi-02",
+      "order": 2,
+      "name": "BONACCORSI SALVATORE",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-02.pdf",
+      "casellario": "assets/docs/casellario-fdi-02.pdf"
+    },
+    {
+      "id": "fdi-03",
+      "order": 3,
+      "name": "BOSCO MARIA AURORA",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-03.pdf",
+      "casellario": "assets/docs/casellario-fdi-03.pdf"
+    },
+    {
+      "id": "fdi-04",
+      "order": 4,
+      "name": "BUSACCA GIANCARLO ANGELO",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-04.pdf",
+      "casellario": "assets/docs/casellario-fdi-04.pdf"
+    },
+    {
+      "id": "fdi-05",
+      "order": 5,
+      "name": "CONSIGLIO ROSSELLA",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-05.pdf",
+      "casellario": "assets/docs/casellario-fdi-05.pdf"
+    },
+    {
+      "id": "fdi-06",
+      "order": 6,
+      "name": "CURCIO MARCELLA",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-06.pdf",
+      "casellario": "assets/docs/casellario-fdi-06.pdf"
+    },
+    {
+      "id": "fdi-07",
+      "order": 7,
+      "name": "DI MARCO AMBRA",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-07.pdf",
+      "casellario": "assets/docs/casellario-fdi-07.pdf"
+    },
+    {
+      "id": "fdi-08",
+      "order": 8,
+      "name": "FANGANO ROSSANA",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-08.pdf",
+      "casellario": "assets/docs/casellario-fdi-08.pdf"
+    },
+    {
+      "id": "fdi-09",
+      "order": 9,
+      "name": "FISICARO DESIREÈ",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-09.pdf",
+      "casellario": "assets/docs/casellario-fdi-09.pdf"
+    },
+    {
+      "id": "fdi-10",
+      "order": 10,
+      "name": "LA FERLA CIRINO detto \"CIRO\"",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-10.pdf",
+      "casellario": "assets/docs/casellario-fdi-10.pdf"
+    },
+    {
+      "id": "fdi-11",
+      "order": 11,
+      "name": "NOCITA LUCIANO",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-11.pdf",
+      "casellario": "assets/docs/casellario-fdi-11.pdf"
+    },
+    {
+      "id": "fdi-12",
+      "order": 12,
+      "name": "PINO ANTONINO detto \"ANTONIO\"",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-12.pdf",
+      "casellario": "assets/docs/casellario-fdi-12.pdf"
+    },
+    {
+      "id": "fdi-13",
+      "order": 13,
+      "name": "POLLICINO GIUSEPPE",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-13.pdf",
+      "casellario": "assets/docs/casellario-fdi-13.pdf"
+    },
+    {
+      "id": "fdi-14",
+      "order": 14,
+      "name": "SCIACCA SERGIO ALFIO",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-14.pdf",
+      "casellario": "assets/docs/casellario-fdi-14.pdf"
+    },
+    {
+      "id": "fdi-15",
+      "order": 15,
+      "name": "URRATA CLAUDIA",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-15.pdf",
+      "casellario": "assets/docs/casellario-fdi-15.pdf"
+    },
+    {
+      "id": "fdi-16",
+      "order": 16,
+      "name": "VINCI CRISTIAN",
+      "listId": "fratelli-italia",
+      "cv": "assets/docs/cv-fdi-16.pdf",
+      "casellario": "assets/docs/casellario-fdi-16.pdf"
+    },
+    {
+      "id": "liberi-01",
+      "order": 1,
+      "name": "CORMACI VINCENZO",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-01.pdf",
+      "casellario": "assets/docs/casellario-liberi-01.pdf"
+    },
+    {
+      "id": "liberi-02",
+      "order": 2,
+      "name": "ANZALONE AGATA",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-02.pdf",
+      "casellario": "assets/docs/casellario-liberi-02.pdf"
+    },
+    {
+      "id": "liberi-03",
+      "order": 3,
+      "name": "ARISCO SAMUELE ANGELO",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-03.pdf",
+      "casellario": "assets/docs/casellario-liberi-03.pdf"
+    },
+    {
+      "id": "liberi-04",
+      "order": 4,
+      "name": "BOSCO SALVATORE",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-04.pdf",
+      "casellario": "assets/docs/casellario-liberi-04.pdf"
+    },
+    {
+      "id": "liberi-05",
+      "order": 5,
+      "name": "CONSOLI CARMELO",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-05.pdf",
+      "casellario": "assets/docs/casellario-liberi-05.pdf"
+    },
+    {
+      "id": "liberi-06",
+      "order": 6,
+      "name": "FAVA MARIA CONCETTA detta \"CONCITA\"",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-06.pdf",
+      "casellario": "assets/docs/casellario-liberi-06.pdf"
+    },
+    {
+      "id": "liberi-07",
+      "order": 7,
+      "name": "MARINO FABIO",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-07.pdf",
+      "casellario": "assets/docs/casellario-liberi-07.pdf"
+    },
+    {
+      "id": "liberi-08",
+      "order": 8,
+      "name": "MASTROGIACOMO ANTONIO",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-08.pdf",
+      "casellario": "assets/docs/casellario-liberi-08.pdf"
+    },
+    {
+      "id": "liberi-09",
+      "order": 9,
+      "name": "NEGOVETICH BRIAN LORENZO",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-09.pdf",
+      "casellario": "assets/docs/casellario-liberi-09.pdf"
+    },
+    {
+      "id": "liberi-10",
+      "order": 10,
+      "name": "PICCOLO GLORIA DESIREE",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-10.pdf",
+      "casellario": "assets/docs/casellario-liberi-10.pdf"
+    },
+    {
+      "id": "liberi-11",
+      "order": 11,
+      "name": "ROSSITTO MANLIO",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-11.pdf",
+      "casellario": "assets/docs/casellario-liberi-11.pdf"
+    },
+    {
+      "id": "liberi-12",
+      "order": 12,
+      "name": "SCAMMACCA ASIA",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-12.pdf",
+      "casellario": "assets/docs/casellario-liberi-12.pdf"
+    },
+    {
+      "id": "liberi-13",
+      "order": 13,
+      "name": "SCARCINA GAETANA detta \"TANIA\"",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-13.pdf",
+      "casellario": "assets/docs/casellario-liberi-13.pdf"
+    },
+    {
+      "id": "liberi-14",
+      "order": 14,
+      "name": "TORRISI ANTONELLA",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-14.pdf",
+      "casellario": "assets/docs/casellario-liberi-14.pdf"
+    },
+    {
+      "id": "liberi-15",
+      "order": 15,
+      "name": "TOCCO FILADELFO detto \"ADELFIO\"",
+      "listId": "liberi",
+      "cv": "assets/docs/cv-liberi-15.pdf",
+      "casellario": "assets/docs/casellario-liberi-15.pdf"
+    },
+    {
+      "id": "andiamo-01",
+      "order": 1,
+      "name": "ANTICO CRISTINA",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-01.pdf",
+      "casellario": "assets/docs/casellario-andiamo-01.pdf"
+    },
+    {
+      "id": "andiamo-02",
+      "order": 2,
+      "name": "BOSCO SANTOCONO SILVANA",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-02.pdf",
+      "casellario": "assets/docs/casellario-andiamo-02.pdf"
+    },
+    {
+      "id": "andiamo-03",
+      "order": 3,
+      "name": "BRIGANTI FEDERICA",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-03.pdf",
+      "casellario": "assets/docs/casellario-andiamo-03.pdf"
+    },
+    {
+      "id": "andiamo-04",
+      "order": 4,
+      "name": "CASERTA GAETANO",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-04.pdf",
+      "casellario": "assets/docs/casellario-andiamo-04.pdf"
+    },
+    {
+      "id": "andiamo-05",
+      "order": 5,
+      "name": "CASTRO SEBASTIANO",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-05.pdf",
+      "casellario": "assets/docs/casellario-andiamo-05.pdf"
+    },
+    {
+      "id": "andiamo-06",
+      "order": 6,
+      "name": "INCONTRO DOMENICO",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-06.pdf",
+      "casellario": "assets/docs/casellario-andiamo-06.pdf"
+    },
+    {
+      "id": "andiamo-07",
+      "order": 7,
+      "name": "LA CAVA ANTONINO",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-07.pdf",
+      "casellario": "assets/docs/casellario-andiamo-07.pdf"
+    },
+    {
+      "id": "andiamo-08",
+      "order": 8,
+      "name": "MARINO SILVANA",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-08.pdf",
+      "casellario": "assets/docs/casellario-andiamo-08.pdf"
+    },
+    {
+      "id": "andiamo-09",
+      "order": 9,
+      "name": "MESSINA VALERIA",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-09.pdf",
+      "casellario": "assets/docs/casellario-andiamo-09.pdf"
+    },
+    {
+      "id": "andiamo-10",
+      "order": 10,
+      "name": "MONTONERI STEFANIA",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-10.pdf",
+      "casellario": "assets/docs/casellario-andiamo-10.pdf"
+    },
+    {
+      "id": "andiamo-11",
+      "order": 11,
+      "name": "PIRRERA MICAELA",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-11.pdf",
+      "casellario": "assets/docs/casellario-andiamo-11.pdf"
+    },
+    {
+      "id": "andiamo-12",
+      "order": 12,
+      "name": "PRIVITELLI STEFANO",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-12.pdf",
+      "casellario": "assets/docs/casellario-andiamo-12.pdf"
+    },
+    {
+      "id": "andiamo-13",
+      "order": 13,
+      "name": "SGROI SALVATORE",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-13.pdf",
+      "casellario": "assets/docs/casellario-andiamo-13.pdf"
+    },
+    {
+      "id": "andiamo-14",
+      "order": 14,
+      "name": "SPADA GIUSEPPE",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-14.pdf",
+      "casellario": "assets/docs/casellario-andiamo-14.pdf"
+    },
+    {
+      "id": "andiamo-15",
+      "order": 15,
+      "name": "SPARAGNINO FRANCESCO",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-15.pdf",
+      "casellario": "assets/docs/casellario-andiamo-15.pdf"
+    },
+    {
+      "id": "andiamo-16",
+      "order": 16,
+      "name": "VASTA GIUSEPPE",
+      "listId": "andiamo-avanti",
+      "cv": "assets/docs/cv-andiamo-16.pdf",
+      "casellario": "assets/docs/casellario-andiamo-16.pdf"
+    },
+    {
+      "id": "azzurra-01",
+      "order": 1,
+      "name": "FERRARO SALVATORE detto \"SALVO\"",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-01.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-02",
+      "order": 2,
+      "name": "ADDAMO MARIA CRISTINA detta \"CRISTINA\"",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-02.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-03",
+      "order": 3,
+      "name": "BARRETTA MARCO",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-03.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-04",
+      "order": 4,
+      "name": "BUDA GIUSY",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-04.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-05",
+      "order": 5,
+      "name": "CAPPELLO LEANDRA",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-05.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-06",
+      "order": 6,
+      "name": "CARNAZZO ENRICO",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-06.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-07",
+      "order": 7,
+      "name": "CICERO PIETRO",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-07.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-08",
+      "order": 8,
+      "name": "ESPOSITO ARMANDO",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-08.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-09",
+      "order": 9,
+      "name": "FERRARO MASSIMO",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-09.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-10",
+      "order": 10,
+      "name": "GENTILE ROSANNA",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-10.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-11",
+      "order": 11,
+      "name": "LO VERDE GIOVANNA",
+      "listId": "lentini-azzurra",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf",
+      "cv": "assets/docs/cv-azzurra-11.pdf"
+    },
+    {
+      "id": "azzurra-12",
+      "order": 12,
+      "name": "MICALIZIO BARBARA",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-12.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-13",
+      "order": 13,
+      "name": "PAGANO PAOLO FABIO",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-13.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-14",
+      "order": 14,
+      "name": "RISUGLIA AZZURRA",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-14.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-15",
+      "order": 15,
+      "name": "SAGGIO FABIO detto \"DARIO SAGGIO\"",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-15.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "azzurra-16",
+      "order": 16,
+      "name": "VINTALORO VALERIA",
+      "listId": "lentini-azzurra",
+      "cv": "assets/docs/cv-azzurra-16.pdf",
+      "casellario": "assets/docs/casellario-azzurra-combinato.pdf"
+    },
+    {
+      "id": "giovane-01",
+      "order": 1,
+      "name": "LA FERLA LUCA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-01.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-02",
+      "order": 2,
+      "name": "DE LUCA GIORGIA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-02.pdf",
+      "casellario": "assets/docs/casellario-giovane-02.pdf"
+    },
+    {
+      "id": "giovane-03",
+      "order": 3,
+      "name": "PUGLISI GRAZIANO",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-03.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-04",
+      "order": 4,
+      "name": "FURNÒ ELENA CLAUDIA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-04.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-05",
+      "order": 5,
+      "name": "MIGLIORE FEDERICA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-05.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-06",
+      "order": 6,
+      "name": "MANGIAMELI LORENZO",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-06.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-07",
+      "order": 7,
+      "name": "VECCHIO FRANCESCO",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-07.pdf",
+      "casellario": "assets/docs/casellario-giovane-07.pdf"
+    },
+    {
+      "id": "giovane-08",
+      "order": 8,
+      "name": "CARBONARO LAURA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-08.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-09",
+      "order": 9,
+      "name": "SAMMATRICE LUDOVICA RITA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-09.pdf"
+    },
+    {
+      "id": "giovane-10",
+      "order": 10,
+      "name": "FISICARO ANDREA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-10.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-11",
+      "order": 11,
+      "name": "GNISCI CHIARINA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-11.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-12",
+      "order": 12,
+      "name": "FUCCIO ALFINA",
+      "listId": "lentini-giovane",
+      "casellario": "assets/docs/casellario-giovane-12.pdf"
+    },
+    {
+      "id": "giovane-13",
+      "order": 13,
+      "name": "FANCIULLO ALFIO",
+      "listId": "lentini-giovane",
+      "casellario": "assets/docs/casellario-giovane-13.pdf"
+    },
+    {
+      "id": "giovane-14",
+      "order": 14,
+      "name": "DE LEO INES",
+      "listId": "lentini-giovane",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-15",
+      "order": 15,
+      "name": "COMMENDATORE VALENTINA",
+      "listId": "lentini-giovane",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "giovane-16",
+      "order": 16,
+      "name": "VINCI VALENTINA",
+      "listId": "lentini-giovane",
+      "cv": "assets/docs/cv-giovane-16.pdf",
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-01",
+      "order": 1,
+      "name": "BATTIATO STEFANO",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-01.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-02",
+      "order": 2,
+      "name": "REALE FRANCESCA",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-02.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-03",
+      "order": 3,
+      "name": "BATTISTONE MARIA TERESA",
+      "listId": "grande-sicilia",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-04",
+      "order": 4,
+      "name": "CALDERONE DANIELA",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-04.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-05",
+      "order": 5,
+      "name": "CARCÒ SALVATORE",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-05.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-06",
+      "order": 6,
+      "name": "COMMENDATORE MAURIZIO",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-06.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-07",
+      "order": 7,
+      "name": "CUNSOLO FRANCESCO",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-07.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-08",
+      "order": 8,
+      "name": "FERRAUTO IRENE",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-08.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-09",
+      "order": 9,
+      "name": "LA ROSA ANTONELLA",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-09.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-10",
+      "order": 10,
+      "name": "LOMBARDO MARIA CONCETTA",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-10.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-11",
+      "order": 11,
+      "name": "MICELI LAURA MARIA PAOLA",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-11.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-12",
+      "order": 12,
+      "name": "NICOTRA SALVATORE NAZZARENO",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-12.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-13",
+      "order": 13,
+      "name": "PAPPALARDO MELISSA",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-13.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-14",
+      "order": 14,
+      "name": "SANTOCONO BERNADETTE",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-14.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-15",
+      "order": 15,
+      "name": "SFERRAZZO ALFIO",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-15.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "grande-sicilia-16",
+      "order": 16,
+      "name": "SGROI MASSIMO",
+      "listId": "grande-sicilia",
+      "cv": "assets/docs/cv-grande-sicilia-16.pdf",
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+    },
+    {
+      "id": "fisicaro-01",
+      "order": 1,
+      "name": "CAMPISI LUIGI",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-01.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-01.pdf"
+    },
+    {
+      "id": "fisicaro-02",
+      "order": 2,
+      "name": "RUSSO FILADELFA",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-02.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-02.pdf"
+    },
+    {
+      "id": "fisicaro-03",
+      "order": 3,
+      "name": "BARRESI GIUSI",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-03.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-03.pdf"
+    },
+    {
+      "id": "fisicaro-04",
+      "order": 4,
+      "name": "SCAMPORRINO EGIDIO",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-04.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-04.pdf"
+    },
+    {
+      "id": "fisicaro-05",
+      "order": 5,
+      "name": "GIUNTA ADELE",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-05.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-05.pdf"
+    },
+    {
+      "id": "fisicaro-06",
+      "order": 6,
+      "name": "BOSCO SIMONE",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-06.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-06.pdf"
+    },
+    {
+      "id": "fisicaro-07",
+      "order": 7,
+      "name": "DI VITA GIUSEPPE",
+      "listId": "fisicaro-sindaco",
+      "casellario": "assets/docs/casellario-fisicaro-07.pdf",
+      "cv": "assets/docs/cv-fisicaro-07.pdf"
+    },
+    {
+      "id": "fisicaro-08",
+      "order": 8,
+      "name": "BARRANO ROCKY",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-08.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-08.pdf"
+    },
+    {
+      "id": "fisicaro-09",
+      "order": 9,
+      "name": "GRASSO SIMONA",
+      "listId": "fisicaro-sindaco",
+      "casellario": "assets/docs/casellario-fisicaro-09.pdf"
+    },
+    {
+      "id": "fisicaro-10",
+      "order": 10,
+      "name": "OLIVA MATTIA",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-10.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-10.pdf"
+    },
+    {
+      "id": "fisicaro-11",
+      "order": 11,
+      "name": "NARZISI VERONICA",
+      "listId": "fisicaro-sindaco",
+      "casellario": "assets/docs/casellario-fisicaro-11.pdf"
+    },
+    {
+      "id": "fisicaro-12",
+      "order": 12,
+      "name": "CASTIGLIA LORENA",
+      "listId": "fisicaro-sindaco",
+      "casellario": "assets/docs/casellario-fisicaro-12.pdf"
+    },
+    {
+      "id": "fisicaro-13",
+      "order": 13,
+      "name": "INCONTRO GIUSEPPE DARIO",
+      "listId": "fisicaro-sindaco",
+      "casellario": "assets/docs/casellario-fisicaro-13.pdf"
+    },
+    {
+      "id": "fisicaro-14",
+      "order": 14,
+      "name": "ROSSITTO DANIELE",
+      "listId": "fisicaro-sindaco",
+      "casellario": "assets/docs/casellario-fisicaro-14.pdf"
+    },
+    {
+      "id": "fisicaro-15",
+      "order": 15,
+      "name": "DI PIETRO GIORGIA",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-15.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-15.pdf"
+    },
+    {
+      "id": "fisicaro-16",
+      "order": 16,
+      "name": "FISICARO GIUSEPPE",
+      "listId": "fisicaro-sindaco",
+      "cv": "assets/docs/cv-fisicaro-16.pdf",
+      "casellario": "assets/docs/casellario-fisicaro-16.pdf"
+    }
   ]
 }
