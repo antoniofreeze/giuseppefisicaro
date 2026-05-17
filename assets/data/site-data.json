@@ -691,7 +691,8 @@
       "order": 13,
       "name": "FANCIULLO ALFIO",
       "listId": "lentini-giovane",
-      "casellario": "assets/docs/casellario-giovane-13.pdf"
+      "casellario": "assets/docs/casellario-giovane-13.pdf",
+      "cv": "assets/docs/cv-giovane-13.pdf"
     },
     {
       "id": "giovane-14",
@@ -738,7 +739,8 @@
       "order": 3,
       "name": "BATTISTONE MARIA TERESA",
       "listId": "grande-sicilia",
-      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf"
+      "casellario": "assets/docs/casellario-grande-sicilia-combinato.pdf",
+      "cv": "assets/docs/cv-grande-sicilia-03.pdf"
     },
     {
       "id": "grande-sicilia-04",
@@ -937,7 +939,8 @@
       "order": 12,
       "name": "CASTIGLIA LORENA",
       "listId": "fisicaro-sindaco",
-      "casellario": "assets/docs/casellario-fisicaro-12.pdf"
+      "casellario": "assets/docs/casellario-fisicaro-12.pdf",
+      "cv": "assets/docs/cv-fisicaro-12.pdf"
     },
     {
       "id": "fisicaro-13",
@@ -952,7 +955,8 @@
       "order": 14,
       "name": "ROSSITTO DANIELE",
       "listId": "fisicaro-sindaco",
-      "casellario": "assets/docs/casellario-fisicaro-14.pdf"
+      "casellario": "assets/docs/casellario-fisicaro-14.pdf",
+      "cv": "assets/docs/cv-fisicaro-14.pdf"
     },
     {
       "id": "fisicaro-15",
