@@ -1,4 +1,4 @@
-const DATA_URL = "assets/data/site-data.json?v=20260517-fisicaro5";
+const DATA_URL = "assets/data/site-data.json?v=20260517-fisicaro6";
 
 const escapeHtml = (value = "") =>
   String(value)

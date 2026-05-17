@@ -660,7 +660,8 @@
       "order": 9,
       "name": "SAMMATRICE LUDOVICA RITA",
       "listId": "lentini-giovane",
-      "cv": "assets/docs/cv-giovane-09.pdf"
+      "cv": "assets/docs/cv-giovane-09.pdf",
+      "casellario": "assets/docs/casellario-giovane-09.pdf"
     },
     {
       "id": "giovane-10",
