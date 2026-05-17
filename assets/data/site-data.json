@@ -913,7 +913,8 @@
       "order": 9,
       "name": "GRASSO SIMONA",
       "listId": "fisicaro-sindaco",
-      "casellario": "assets/docs/casellario-fisicaro-09.pdf"
+      "casellario": "assets/docs/casellario-fisicaro-09.pdf",
+      "cv": "assets/docs/cv-fisicaro-09.pdf"
     },
     {
       "id": "fisicaro-10",
@@ -928,7 +929,8 @@
       "order": 11,
       "name": "NARZISI VERONICA",
       "listId": "fisicaro-sindaco",
-      "casellario": "assets/docs/casellario-fisicaro-11.pdf"
+      "casellario": "assets/docs/casellario-fisicaro-11.pdf",
+      "cv": "assets/docs/cv-fisicaro-11.pdf"
     },
     {
       "id": "fisicaro-12",
