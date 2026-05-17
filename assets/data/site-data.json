@@ -697,14 +697,16 @@
       "order": 14,
       "name": "DE LEO INES",
       "listId": "lentini-giovane",
-      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf",
+      "cv": "assets/docs/cv-giovane-14.pdf"
     },
     {
       "id": "giovane-15",
       "order": 15,
       "name": "COMMENDATORE VALENTINA",
       "listId": "lentini-giovane",
-      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf"
+      "casellario": "assets/docs/casellario-lentini-giovane-combinato.pdf",
+      "cv": "assets/docs/cv-giovane-15.pdf"
     },
     {
       "id": "giovane-16",
